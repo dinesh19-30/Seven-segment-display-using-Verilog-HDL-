@@ -10,7 +10,7 @@ Computer system with a suitable operating system.
 
 ## PROCEDURE:
 
-### Launch Vivado 2023.1:
+Launch Vivado 2023.1:
 
 Open Vivado and create a new project.
 Design the Verilog Code:
