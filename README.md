@@ -61,7 +61,7 @@ end
 endmodule
 ~~~
 ## output:
-![SEVEN](https://github.com/user-attachments/assets/bcb8bf19-ad43-4b3c-8ed4-549ee7b26903)
+![7LKG](https://github.com/user-attachments/assets/c5ef35a0-43af-445b-ae8f-5cd8d0d58692)
 
 
 
